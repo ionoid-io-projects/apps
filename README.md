@@ -66,3 +66,10 @@ This repository contains apps created from the workshop projects
     ARMv7 app link
     https://github.apps.ionoid.net/flame-sensor/arm7/app.tar
 
+##  Hello dht app
+    ARMv6 app link
+    https://github.apps.ionoid.net/hello-dht/arm6/app.tar
+
+    ARMv7 app link
+    https://github.apps.ionoid.net/hello-dht/arm7/app.tar
+
