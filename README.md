@@ -14,11 +14,14 @@ link](https://github.com/ionoid-io-projects/apps/tree/master/hello-world)
 
 Download links for Static Binary App version:
 
-[ARMv6
-hello-world](https://github.apps.ionoid.net/led-blinking/arm6/build/hello-world-v1)
+[ARMv6 hello-world](https://github.apps.ionoid.net/hello-world/arm6/build/bin/v1/hello-world)
 
-[ARMv7
-hello-world](https://github.apps.ionoid.net/led-blinking/arm7/build/hello-world-v1)
+[ARMv7 hello-world](https://github.apps.ionoid.net/hello-world/arm7/build/bin/v1/hello-world)
+
+[amd64 hello-world](https://github.apps.ionoid.net/hello-world/amd64/build/bin/v1/hello-world)
+
+
+If you want to deploy version 2, just replace `v1` in URL with `v2`.
 
 
 ### Archive App
@@ -26,10 +29,13 @@ hello-world](https://github.apps.ionoid.net/led-blinking/arm7/build/hello-world-
 Download links for Archive App version:
 
 [ARMv6
-hello-world](https://github.apps.ionoid.net/led-blinking/arm6/build/hello-world-v1.tar)
+hello-world](https://github.apps.ionoid.net/hello-world/arm6/build/archive/hello-world-v1.tar)
 
 [ARMv7
-hello-world](https://github.apps.ionoid.net/led-blinking/arm7/build/hello-world-v1.tar)
+hello-world](https://github.apps.ionoid.net/hello-world/arm7/build/archive/hello-world-v1.tar)
+
+[amd64
+hello-world](https://github.apps.ionoid.net/hello-world/amd64/build/archive/hello-world-v1.tar)
 
 
 ## DHT11 Temperature and Humidity App
