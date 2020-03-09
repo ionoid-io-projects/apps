@@ -12,6 +12,8 @@ link](https://github.com/ionoid-io-projects/apps/tree/master/hello-world)
 
 ### Static Binary App
 
+Download links for Static Binary App version:
+
 [ARMv6
 hello-world](https://github.apps.ionoid.net/led-blinking/arm6/build/hello-world-v1)
 
