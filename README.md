@@ -1,4 +1,5 @@
-# Ionoid Apps
+# Ionoid.io Apps
+
 This repository contains apps created from the workshop projects
 
 # App with their links
